@@ -1,0 +1,3 @@
+[submodule "alura-food"]
+	path = alura-food
+	url = https://github.com/Bruno-Moreira-Dev/alura-food-microservices.git
